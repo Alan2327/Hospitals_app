@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "All India Institute of Medical Sciences (AIIMS)",
+      "patientCount": 1000,
+      "location": "New Delhi"
+    },
+    {
+      "id": 2,
+      "name": "Apollo Hospitals",
+      "patientCount": 595,
+      "location": "Chennai"
+    },
+    {
+      "id": 3,
+      "name": "Medanta The Medicity",
+      "patientCount": 200,
+      "location": "Gurugram"
+    },
+    {
+      "id": 4,
+      "name": "Christian Medical College (CMC)",
+      "patientCount": 570,
+      "location": "vellore"
+    },
+    {
+      "id": 5,
+      "name": "Continental Hospitals",
+      "patientCount":760,
+      "location": "Hyderabad"
+    }
+  ]
